@@ -63,7 +63,7 @@ Step 5: After Completing the process now u can run script
 - try this command (chmod +x tracker.py), then run script.  
 
 4) `Issue: Python3 or pip not found?:`  
-- read the requirements.txt file, (cat requirements.txt) or (gedit requirements.txt).  
+- read the requirements.txt file, (cat Requirements.txt) or (gedit Requirements.txt).  
 
 ## 🛠️MODIFICATION 
 
