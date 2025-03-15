@@ -38,7 +38,7 @@ Step 5: After Completing the process now u can run script
 
 ## 💡Tips !
 🌐 Must Use a URL shortener to make the tracking link look natural.  
-⚡ Recommended URL shortners : (https://bitly.com/),(https://grabify.link/),(https://t.ly/).  
+⚡ Recommended URL shortners : (https://bitly.com/) , (https://grabify.link/) , (https://t.ly/) .  
 ✅ Tracking link generated: "Send this link to victim".  
 📊 View real-time logs: "Use this link in ur own browser to see dashboard".  
 🔄 Refresh /dashboard every few seconds for real-time logs.  
