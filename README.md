@@ -44,6 +44,9 @@ Step 5: After Completing the process now u can run script
 🔄 Refresh /dashboard every few seconds for real-time logs.  
 🛑 Use this responsibly – only on your own systems or with permission.  
 ⚡ Always check the tracking link in ur own browser first before sending to someone, make sure it is working.  
+📊 Cloudflare links refresh some times , re run the script then.  
+🔄 You can share one link to multiple victims.  
+🔄 it will download cloudflare only on first run if not already install.  
 
 ## 🤝Follow the Prompts !
 1) This script is fully interactive! Just:  
